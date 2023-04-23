@@ -1,0 +1,260 @@
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\npm\bootstrap-icons@1.4.1\font\bootstrap-icons.css
+Content Type: text/css
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff2?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff2
+Content Type: font/woff2
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/fonts/bootstrap-icons.woff?231ce25e89ab5804f9a6c427b8d325c9
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\npm\bootstrap-icons@1.4.1\font\fonts\bootstrap-icons.woff
+Content Type: font/woff
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\npm\bootstrap@5.0.0\dist\js\bootstrap.bundle.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\ajax\libs\font-awesome\5.10.0\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://code.jquery.com/jquery-3.4.1.min.js
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\jquery-3.4.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600&family=Inter:wght@700;800&display=swap
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSyccg.ttf
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\s\heebo\v21\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EiSyccg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1Euyyccg.ttf
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\s\heebo\v21\NGSpv5_NC0k9P_v6ZUCbLRAHxK1Euyyccg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/heebo/v21/NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyuccg.ttf
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\s\heebo\v21\NGSpv5_NC0k9P_v6ZUCbLRAHxK1EVyuccg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuDyYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\s\inter\v12\UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://idcrc-prototype.netlify.app/
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://idcrc-prototype.netlify.app/accreditation
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\accreditation.html
+Content Type: text/html
+
+Uri: https://idcrc-prototype.netlify.app/clientele
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\clientele.html
+Content Type: text/html
+
+Uri: https://idcrc-prototype.netlify.app/contact.html
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\contact.html
+Content Type: text/html
+
+Uri: https://idcrc-prototype.netlify.app/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://idcrc-prototype.netlify.app/css/style.css
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\css\style.css
+Content Type: text/css
+
+Uri: https://idcrc-prototype.netlify.app/img/about-1.1.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\about-1.1.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/about-1.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/about-2.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/about-3.1.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\about-3.1.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/about-3.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/about-4.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\about-4.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/carousel-1.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\carousel-1.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/carousel-2.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\carousel-2.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/logolong.png
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\logolong.png
+Content Type: image/png
+
+Uri: https://idcrc-prototype.netlify.app/img/peda.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\peda.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/rsz_1logo.png
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\rsz_1logo.png
+Content Type: image/png
+
+Uri: https://idcrc-prototype.netlify.app/img/why1.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\why1.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/why2.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\why2.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/why3.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\why3.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/why4.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\why4.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/img/why6.jpg
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\img\why6.jpg
+Content Type: image/jpeg
+
+Uri: https://idcrc-prototype.netlify.app/index.html
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\index.html
+Content Type: text/html
+
+Uri: https://idcrc-prototype.netlify.app/js/main.js
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\js\main.js
+Content Type: application/javascript
+
+Uri: https://idcrc-prototype.netlify.app/lib/animate/animate.min.css
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\lib\animate\animate.min.css
+Content Type: text/css
+
+Uri: https://idcrc-prototype.netlify.app/lib/easing/easing.min.js
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\lib\easing\easing.min.js
+Content Type: application/javascript
+
+Uri: https://idcrc-prototype.netlify.app/lib/owlcarousel/assets/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\lib\owlcarousel\assets\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://idcrc-prototype.netlify.app/lib/owlcarousel/assets/owl.video.play.png
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\lib\owlcarousel\assets\owl.video.play.png
+Content Type: image/png
+
+Uri: https://idcrc-prototype.netlify.app/lib/owlcarousel/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\lib\owlcarousel\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://idcrc-prototype.netlify.app/lib/waypoints/waypoints.min.js
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://idcrc-prototype.netlify.app/lib/wow/wow.min.js
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\lib\wow\wow.min.js
+Content Type: application/javascript
+
+Uri: https://idcrc-prototype.netlify.app/programs
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\programs.html
+Content Type: text/html
+
+Uri: https://idcrc-prototype.netlify.app/services
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\services.html
+Content Type: text/html
+
+Uri: https://idcrc-prototype.netlify.app/upcoming projects
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\upcoming projects.html
+Content Type: text/html
+
+Uri: https://m.facebook.com/login.php?next=https:%2F%2Fm.facebook.com%2Ficdrctrainingcenter&refsrc=deprecated&_rdr
+File Name: C:\Downloaded Web Sites\idcrc-prototype.netlify.app\login.php
+Content Type: application/xhtml+xml
+
